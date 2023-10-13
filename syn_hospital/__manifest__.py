@@ -6,7 +6,7 @@
 
     'description': "Hospital Management",
 
-    'author': "PSS",
+    'author': "Prefortune Softweb Solution",
     'website': "https://prefortune.com/",
 
     # Categories can be used to filter modules in modules listing
